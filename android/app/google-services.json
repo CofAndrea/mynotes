@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139422537082",
+    "project_id": "flutter-abcnotes-test",
+    "storage_bucket": "flutter-abcnotes-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139422537082:android:e1847ed0478d4cc4b932c3",
+        "android_client_info": {
+          "package_name": "com.fluttercourse.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTDkhso7-CmQq2GNkSguwguF3FZzQb44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
